@@ -1,1 +1,0 @@
-console.log('try to test git rebase');
